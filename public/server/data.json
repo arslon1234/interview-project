@@ -1,0 +1,124 @@
+{
+    "items" :[
+        {
+        "id":1,
+        "full_name":"Lochinbek Isroilov",
+        "department":"Marketing",
+        "position":"Director of marketing",
+        "gender":"male",
+        "birth_date":"10-07-1994"
+        },
+        {
+        "id":2,
+        "full_name":"Mohinur",
+        "department":"Accounting",
+        "position":"Accounting manager",
+        "gender":"female",
+        "birth_date":"12-09-1995"
+        },
+        {
+        "id":3,
+        "full_name":"Nuriddin",
+        "department":"IT",
+        "position":"Backend Developer",
+        "gender":"male",
+        "birth_date":"05-08-1999"
+        },
+        {
+        "id":4,
+        "full_name":"Jamila",
+        "department":"IT",
+        "position":"Mobile Developer",
+        "gender":"female",
+        "birth_date":"15-02-2000"
+        },
+        {
+        "id":5,
+        "full_name":"Shahzod",
+        "department":"Accounting",
+        "position":"General accountant",
+        "gender":"male",
+        "birth_date":"15-02-2000"
+        },
+        {
+        "id":6,
+        "full_name":"Umida",
+        "department":"Marketing",
+        "position":"Marketing consultant",
+        "gender":"female",
+        "birth_date":"20-11-1994"
+        },
+        {
+        "id":7,
+        "full_name":"Jonibek",
+        "department":"Accounting",
+        "position":"Project accountant",
+        "gender":"male",
+        "birth_date":"02-05-1996"
+        },
+        {
+        "id":8,
+        "full_name":"Nodirbek",
+        "department":"IT",
+        "position":"Frontend Developer",
+        "gender":"male",
+        "birth_date":"25-08-2003"
+        },
+        {
+        "id":9,
+        "full_name":"Asadbek",
+        "department":"Marketing",
+        "position":"Marketing specialist",
+        "gender":"male",
+        "birth_date":"25-08-2003"
+        },
+        {
+        "id":10,
+        "full_name":"Azamat",
+        "department":"Accounting",
+        "position":"Accounting supervisor",
+        "gender":"male",
+        "birth_date":"13-08-2002"
+        },
+        {
+        "id":11,
+        "full_name":"Abdulloh",
+        "department":"IT",
+        "position":"IOS Developer",
+        "gender":"male",
+        "birth_date":"16-09-2001"
+        },
+        {
+        "id":12,
+        "full_name":"Nulufar",
+        "department":"IT",
+        "position":"Python Developer",
+        "gender":"female",
+        "birth_date":"21-09-2002"
+        },
+        {
+        "id":13,
+        "full_name":"Saida",
+        "department":"Marketing",
+        "position":"Marketing manager",
+        "gender":"female",
+        "birth_date":"28-10-1999"
+        },
+        {
+        "id":14,
+        "full_name":"Behzod",
+        "department":"Accounting",
+        "position":"Staff accountant",
+        "gender":"male",
+        "birth_date":"05-10-1999"
+        },
+        {
+        "id":15,
+        "full_name":"Davron",
+        "department":"IT",
+        "position":"Java developer",
+        "gender":"male",
+        "birth_date":"17-01-1997"
+        }
+    ]
+  }

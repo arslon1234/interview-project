@@ -1,0 +1,153 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "full_name": "Lochinbek Isroilovgg",
+      "department": "Marketing",
+      "position": "Director of marketing",
+      "gender": "male",
+      "birth_date": "01-09-2022",
+      "item": {
+        "id": 1,
+        "full_name": "Lochinbek Isroilovv",
+        "department": "Accounting",
+        "position": "Director of marketing",
+        "gender": "male",
+        "birth_date": "2022-09-07T19:00:00.000Z"
+      }
+    },
+    {
+      "id": 2,
+      "full_name": "Mohinur",
+      "department": "Accounting",
+      "position": "Accounting manager",
+      "gender": "female",
+      "birth_date": "12-09-1995"
+    },
+    {
+      "id": 3,
+      "full_name": "Nuriddin",
+      "department": "IT",
+      "position": "Backend Developer",
+      "gender": "male",
+      "birth_date": "05-08-1999"
+    },
+    {
+      "id": 4,
+      "full_name": "Jamila",
+      "department": "IT",
+      "position": "Mobile Developer",
+      "gender": "female",
+      "birth_date": "15-02-2000"
+    },
+    {
+      "id": 5,
+      "full_name": "Shahzod",
+      "department": "Marketing",
+      "position": "General accountant",
+      "gender": "male",
+      "birth_date": "10-09-2022"
+    },
+    {
+      "id": 6,
+      "full_name": "Umida",
+      "department": "Marketing",
+      "position": "Marketing consultant",
+      "gender": "female",
+      "birth_date": "20-11-1994"
+    },
+    {
+      "id": 8,
+      "full_name": "Nodirbek",
+      "department": "IT",
+      "position": "Frontend Developer",
+      "gender": "male",
+      "birth_date": "25-08-2003"
+    },
+    {
+      "id": 9,
+      "full_name": "Asadbek",
+      "department": "Marketing",
+      "position": "Marketing specialist",
+      "gender": "male",
+      "birth_date": "25-08-2003"
+    },
+    {
+      "full_name": "bbbbbbbbcdd",
+      "department": "IT",
+      "birth_date": "10-09-2022",
+      "gender": "male",
+      "id": 10
+    },
+    {
+      "full_name": "df",
+      "department": "Accounting",
+      "birth_date": "10-09-2022",
+      "gender": "male",
+      "id": 11
+    },
+    {
+      "full_name": "fxgx",
+      "department": "IT",
+      "birth_date": "09-09-2022",
+      "gender": "male",
+      "id": 12
+    },
+    {
+      "full_name": "dsf",
+      "department": "IT",
+      "birth_date": "15-09-2022",
+      "gender": "female",
+      "id": 13
+    },
+    {
+      "full_name": "dasda",
+      "department": "Accounting",
+      "birth_date": "14-09-2022",
+      "gender": "female",
+      "id": 14
+    },
+    {
+      "full_name": "ere",
+      "department": "IT",
+      "birth_date": "08-09-2022",
+      "gender": "female",
+      "id": 15
+    },
+    {
+      "full_name": "fvdvd",
+      "department": "Accounting",
+      "birth_date": "14-09-2022",
+      "gender": "female",
+      "id": 16
+    },
+    {
+      "full_name": "ggrege",
+      "department": "Accounting",
+      "birth_date": "07-09-2022",
+      "gender": "male",
+      "id": 17
+    },
+    {
+      "full_name": "dfv",
+      "department": "Accounting",
+      "birth_date": "15-09-2022",
+      "gender": "female",
+      "id": 18
+    },
+    {
+      "full_name": "eg",
+      "department": "Accounting",
+      "birth_date": "01-09-2022",
+      "gender": "female",
+      "id": 19
+    },
+    {
+      "full_name": "vdfv",
+      "department": "Accounting",
+      "birth_date": "16-09-2022",
+      "gender": "female",
+      "id": 20
+    }
+  ]
+}

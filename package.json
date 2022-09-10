@@ -7,15 +7,26 @@
     "build": "vue-cli-service build"
   },
   "dependencies": {
+    "@hennge/vue3-pagination": "^1.0.17",
+    "@vee-validate/rules": "^4.6.7",
+    "axios": "^0.27.2",
     "core-js": "^3.8.3",
+    "init": "^0.1.2",
+    "moment": "^2.29.4",
+    "mosha-vue-toastify": "^1.0.23",
+    "vee-validate": "^4.6.7",
     "vue": "^3.2.13",
     "vue-router": "^4.0.3",
+    "vue3-datepicker": "^0.3.4",
     "vuex": "^4.0.0"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~5.0.0",
     "@vue/cli-plugin-router": "~5.0.0",
     "@vue/cli-plugin-vuex": "~5.0.0",
-    "@vue/cli-service": "~5.0.0"
+    "@vue/cli-service": "~5.0.0",
+    "autoprefixer": "^10.4.8",
+    "postcss": "^8.4.16",
+    "tailwindcss": "^3.1.8"
   }
 }
